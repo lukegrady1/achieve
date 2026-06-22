@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0f0f"/>
+      <stop offset="1" stop-color="#202020"/>
+    </linearGradient>
+    
+  </defs>
+  <g >
+    <rect width="600" height="600" fill="url(#bgGrad)"/>
+    <g><path d="M-600 0 L-300 300 L-600 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-536 0 L-236 300 L-536 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-472 0 L-172 300 L-472 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-408 0 L-108 300 L-408 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-344 0 L-44 300 L-344 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-280 0 L20 300 L-280 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-216 0 L84 300 L-216 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-152 0 L148 300 L-152 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-88 0 L212 300 L-88 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-24 0 L276 300 L-24 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M40 0 L340 300 L40 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M104 0 L404 300 L104 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M168 0 L468 300 L168 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M232 0 L532 300 L232 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M296 0 L596 300 L296 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M360 0 L660 300 L360 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M424 0 L724 300 L424 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M488 0 L788 300 L488 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M552 0 L852 300 L552 600" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/></g>
+    <rect x="0" y="592" width="600" height="8" fill="#ed1d00"/>
+    <text x="300" y="294" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="38" fill="#ffffff" letter-spacing="2">GROUP</text>
+    
+    <text x="584" y="582" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="21" fill="#ffffff" opacity="0.25">ACHIEVE ▲</text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="700" viewBox="0 0 560 700" role="img">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0f0f"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    
+  </defs>
+  <g >
+    <rect width="560" height="700" fill="url(#bgGrad)"/>
+    <g><path d="M-700 0 L-350 350 L-700 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-636 0 L-286 350 L-636 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-572 0 L-222 350 L-572 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-508 0 L-158 350 L-508 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-444 0 L-94 350 L-444 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-380 0 L-30 350 L-380 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-316 0 L34 350 L-316 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-252 0 L98 350 L-252 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-188 0 L162 350 L-188 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-124 0 L226 350 L-124 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M-60 0 L290 350 L-60 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M4 0 L354 350 L4 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M68 0 L418 350 L68 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M132 0 L482 350 L132 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M196 0 L546 350 L196 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M260 0 L610 350 L260 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M324 0 L674 350 L324 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M388 0 L738 350 L388 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M452 0 L802 350 L452 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/><path d="M516 0 L866 350 L516 700" stroke="#ed1d00" stroke-width="10" fill="none" opacity="0.12"/></g>
+    <rect x="0" y="692" width="560" height="8" fill="#ed1d00"/>
+    <text x="280" y="344" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="35" fill="#ffffff" letter-spacing="2">JEREMY FRISCH</text>
+    <text x="280" y="372" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="600" font-size="15" fill="#ed1d00" letter-spacing="3">FOUNDER &amp; HEAD COACH</text>
+    <text x="544" y="682" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="20" fill="#ffffff" opacity="0.25">ACHIEVE ▲</text>
+  </g>
+</svg>
