@@ -8,7 +8,10 @@ import { LINKS } from "@/lib/content";
  */
 export default function Hero() {
   return (
-    <section className="grain relative isolate flex min-h-[92vh] items-center overflow-hidden bg-ink-950 text-white">
+    <section
+      id="hero"
+      className="grain relative isolate flex min-h-[92vh] items-center overflow-hidden bg-ink-950 text-white"
+    >
       {/* Background action photo, darkened for contrast */}
       <Image
         src="/images/hero.svg"
